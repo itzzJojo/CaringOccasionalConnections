@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.navbar{
+  background-color:#fe7cdb;
+}
+.About{
+  background-color:#fe7cdb;
+}
+.About:hover{
+  background-color: #fe7cdb;
+}
+.Skills{
+  background-color: #fe7cdb;
+}
+.Contact{
+  background-color: #fe7cdb;
+}
+body{
+  margin:0px;
+}
+ul{
+  list-style-type:none;
+}
